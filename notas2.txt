@@ -1,0 +1,15 @@
+Forn
+Es un proyecto totalmente diferente pero esta basado en el mismo proyecto (util para cambiar de sistema operativo)
+
+git init  crear un repositorio nuevo (cuando uno comienza el proyecto)
+
+git clone  crear un repositorio existente (cuando uno se integra a un proyecto en curso)
+
+En la terminal se escribe git clone y la url del protecto
+
+Para realizar cambios en el proyecto:
+
+Cambio en un archivo git add se va al Stagin Area, luego  otro cambio git add se va al Stagin Area, asi sucesivamnete hasta que se tenga teminada la funcionalidad y se escribre git commit para irse al repositorio.
+
+
+
